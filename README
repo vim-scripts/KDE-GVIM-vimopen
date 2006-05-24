@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1559
+
+This approximates the Open In... functionality of the Windows GVIM implementation.  If there is currently one or more instances of GVIM open, a dialog box is presented which lists them and allows one to be selected.  If the "new" option is picked then a new instance is created.  The last-selected instance is the default.
